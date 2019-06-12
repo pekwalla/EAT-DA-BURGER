@@ -10,11 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/pekwalla/eat-da-burger.git"
   },
-  "keywords": [
-    "burgers",
-    "eating",
-    "burgerfi"
-  ],
+  
   "author": "Peggy Ekwalla",
   "license": "ISC",
   "bugs": {
